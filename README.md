@@ -1,7 +1,7 @@
 # SPEAKABLE 2026
 # Stage Aware Cross-Lingual Transfer for Faroese ASR
 
-Files related to a paper on ASR for Fareose for the ICASSP 2026 conference. Continuous pre-training and fine-tuning of Wav2Vec2 models and fine-tuning of Whisper models with Fareose and other Scandinavian data.
+Files related to a paper on ASR for Fareose for the SPEAKABLE 2026 conference. Continuous pre-training and fine-tuning of Wav2Vec2 models and fine-tuning of Whisper models with Fareose and other Scandinavian data.
 
 FairSeq installation guide is found here: https://github.com/facebookresearch/fairseq/tree/main
 
